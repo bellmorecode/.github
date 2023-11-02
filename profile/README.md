@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the space for open source software from Bellmore code.  We have a backlog of old projects that we will bring online over the next few weeks.  Hopefully the open source community will breathe life into them.
+I am here; writing code to improve at writing code.  Try to build a batch of cheat-codes and share them here.
 
 <!--
 
