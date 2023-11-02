@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is the space for open source software from Bellmore code.  We have a backlog of old projects that we will bring online over the next few weeks.  Hopefully the open source community will breathe life into them.
+
 <!--
 
 **Here are some ideas to get you started:**
