@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am here; writing code to improve at writing code.  Try to build a batch of cheat-codes and share them here.
-
+I am here; writing code to improve at writing code.  
 <!--
 
 **Here are some ideas to get you started:**
